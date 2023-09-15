@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mithun cy</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<img align="center" src="./github-cover.jpg" alt="cover"/>
 
 <p align="left">
   <img

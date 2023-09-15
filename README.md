@@ -8,8 +8,9 @@
   />
 </p>
 
-- 💬 Ask me about **C, C++, JS, TS, React, Node, Express, MongoDB** - 📫 How to reach me
-**mithuncy1@gmail.com**
+- 💬 Ask me about **C, C++, JS, TS, React, Node, Express, MongoDB** 
+- 📫 How to reach me-
+- **mithuncy1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

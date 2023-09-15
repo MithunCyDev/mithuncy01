@@ -118,7 +118,7 @@
   </a>
   <a href="https://expressjs.com"  target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+      src="https://icons8.com/icon/B4UIxQoMYIGD/express-js"
       alt="express"
       width="40"
       height="40"

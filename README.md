@@ -117,12 +117,7 @@
     />
   </a>
   <a href="https://expressjs.com"  target="_blank" rel="noreferrer">
-    <img
-      src="https://icons8.com/icon/B4UIxQoMYIGD/express-js"
-      alt="express"
-      width="40"
-      height="40"
-    />
+   <img width="40" height="40" src="https://img.icons8.com/color/48/000000/express-js.png" alt="express-js"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img

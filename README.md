@@ -167,7 +167,6 @@
  
  
   <h3 align="left">Database:</h3>
-
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"

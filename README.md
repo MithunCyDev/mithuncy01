@@ -44,7 +44,7 @@
     <img
       align="center"
       src="https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job"
-      alt="rajcy1"
+      alt="Leetcode"
       height="30"
       width="40"
     />

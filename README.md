@@ -40,6 +40,15 @@
       width="40"
     />
   </a>
+  <a href="https://www.hackerrank.com/mithuncy" target="blank">
+    <img
+      align="center"
+      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg](https://commons.wikimedia.org/wiki/File:LeetCode_logo_white_no_text.svg#/media/File:LeetCode_logo_white_no_text.svg)"
+      alt="rajcy1"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

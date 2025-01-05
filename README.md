@@ -19,7 +19,6 @@
 
 - 👯 **I’m looking to collaborate on:**  
   - Open-source projects involving **JavaScript**, **TypeScript**, or **Python**.  
-  - Web and mobile applications built with modern frameworks and technologies.  
 
 - 💬 **Ask me about:**  
   - Web and mobile app development.  

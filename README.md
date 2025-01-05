@@ -69,12 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![MithuncyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MithuncyDev&show_icons=true&theme=radical)  
-
----
-
 ## 📚 Repository Languages  
 
 Here are the programming languages used across my repositories:  

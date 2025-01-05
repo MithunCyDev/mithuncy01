@@ -69,20 +69,11 @@
 
 ---
 
-## 📚 Repository Languages  
-
-Here are the programming languages used across my repositories:  
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MithuncyDev&hide=html,css&langs_count=6&theme=radical)](https://github.com/MithuncyDev?tab=repositories)  
-
----
-
 ## 📫 Get in Touch  
 
 - **Portfolio:** [mithuncy.dev](#)  
-- **Email:** [mithuncy.dev@gmail.com](mailto:mithuncy.dev@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mithuncydev](#)  
-- **Twitter:** [@MithuncyDev](https://twitter.com/MithuncyDev)  
+- **LinkedIn:** [https://www.linkedin.com/in/mithun-cy-4060491b1/](#)  
+
 
 ---
 

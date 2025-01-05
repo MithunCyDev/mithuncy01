@@ -27,7 +27,7 @@
 ---
 
 ## 🛠️ Skills & Technologies  
-<div style={display:"flex"}>
+
   **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
@@ -62,7 +62,6 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)  
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)  
 
-</div>
 
 **Desktop Software Development:**  
 - **GUI Frameworks:** PyQt, Tkinter, Kivy  

@@ -7,9 +7,7 @@
   />
 </p>
 
-# 👨‍💻 MithuncyDev - Software Engineer  
-
-## 🌟 About Me  
+<h2>About Me </h2>
 
 - 🔭 **I’m currently working on:**  
   - Developing advanced web applications with **React.js**, **Next.js**, and **Vue.js**.  

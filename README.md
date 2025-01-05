@@ -74,7 +74,6 @@
 ## 📊 GitHub Stats  
 
 ![MithuncyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MithuncyDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MithuncyDev&layout=compact&theme=radical)  
 
 ---
 
